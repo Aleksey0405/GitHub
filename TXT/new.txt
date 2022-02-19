@@ -1,2 +1,4 @@
-dffsdfsdf
-dsfdsfsf
+ + full_name: Borsuk Aleksey Victorovich
+ + age:24,
+ + pets: 1 cat Caesar
+ + desired_Salary: 1000$
