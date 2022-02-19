@@ -1,1 +1,13 @@
-
+{
+"Summary":"Login is possible to be created in Russian language",
+"Description":"When want to registrate and type name into a text field using Russian language. It's not correct according to UR_1.5",
+"Actual result":"Russian letters are valid",
+"Expected result":"Warning message about Eng letters should appear",
+"Reproduced on":"Win 10, Google Chrome v.98.0.4758.102",
+"Reproducibility":"always",
+"Attachments":"https://drive.google.com/drive/folders/1oE7nBWTkCzrjMsB-qcJCOLhMTLcwer64",
+"STR": {"1":"Go to registration form on the website",
+        "2":"Register with Russian language"},
+"Severity":"minor",
+"Priority":"ASAP"
+}
