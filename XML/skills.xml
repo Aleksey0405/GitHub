@@ -1,0 +1,29 @@
+
+<skills>
+	<first>software testing basic theory</first>
+	<second>сlient–server model</second>
+	<third>HTTP server request methods</third>
+	<fourth>HTTP server response methods</fourth>
+	<fifth>HTTP request and response structures</fifth>
+	<sixth>JSON nad XML structure</sixth>
+	<seventh>API testing via Postman (JS, autotests API)</seventh>
+	<eighth>Getting and reading logs from an external server</eighth>
+	<ninth>Sniffing http web traffic via Charles and Fiddler</ninth>
+	<tenth>VPN. How to work with it, why we need it, how to use, tools</tenth>
+	<eleventh>Mobile testing</eleventh>
+	<twelfth>IOS, Android, guidelines</twelfth>
+	<thirteenth>Building IOS apps via Xcode</thirteenth>
+	<fourteenth>Building Android apps via Android Studio</fourteenth>
+	<fifteenth>ADB of android devices</fifteenth>
+	<sixteenth>Setting up proxy and VPN on IOS and Android</sixteenth>
+	<seventeenth>Sniffing of mobile traffic via Charles and Fiddler</seventeenth>
+	<eighteenth>Terminal Linux. Basic commands</eighteenth>
+	<nineteenth>Basic of bash scripting. Automation of routine tasks</nineteenth>
+	<twentieth>Access to remote servers</twentieth>
+	<twenty-first>SQL basic commands: Create,Delete, Drop,Insert Into, Select</twenty-first>
+	<twenty-second>Postgres installation, configuration and usage</twenty-second>
+	<twenty-third>Non-relational DB Redis installation, configuration and usage</twenty-third>
+	<twenty-fourth>Load testing in Jmeter</twenty-fourth>
+	<twenty-fifth>Scrum development methodology</twenty-fifth>
+	<twenty-sixth>Python basics. Building a client-server app</twenty-sixth>
+</skills>
