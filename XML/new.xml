@@ -1,6 +1,10 @@
-
-dsfsfds
-df
-sd
-f
-sdf
+<my_info>
+	<full_name>Aleksey Borsuk</full_name>
+	<age>24</age>
+	<pets>
+		<number>1</number>
+		<pet_kind>Cat</pet_kind>
+		<name>Caesar</name>
+	</pets>
+	<desirable_salary>1000$</desirable_salary>
+</my_info>
