@@ -1,0 +1,15 @@
+{
+
+"full_name" : "Aleksey Borsuk",
+"age" : 24,
+"pets" : [{
+		"name":"Caesar"},
+		{"age" : 1.5},
+		{"animal_type" : "cat"},
+		{"breed" : "british"
+
+}],
+
+"desired_salary" : "1000$"
+}
+
