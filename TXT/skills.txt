@@ -1,0 +1,26 @@
+software testing basic theory
+сlient–server model
+HTTP server request methods
+HTTP server response methods
+HTTP request and response structures
+JSON nad XML structure
+API testing via Postman (JS, autotests API)
+Getting and reading logs from an external server
+Sniffing http web traffic via Charles and Fiddler
+VPN. How to work with it, why we need it, how to use, tools
+Mobile testing
+IOS, Android, guidelines
+Building IOS apps via Xcode
+Building Android apps via Android Studio
+ADB of android devices
+Setting up proxy and VPN on IOS and Android
+Sniffing of mobile traffic via Charles and Fiddler
+Terminal Linux. Basic commands
+Basic of bash scripting. Automation of routine tasks
+Access to remote servers
+SQL basic commands: Create,Delete, Drop,Insert Into, Select
+Postgres installation, configuration and usage
+Non-relational DB Redis installation, configuration and usage
+Load testing in Jmeter
+Scrum development methodology
+Python basics. Building a client-server app
