@@ -293,4 +293,4 @@ Python basics. Building a client-server app
  16. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
  * Нажать `Commit changes`
  17. Синхронизировать внешний и локальный репозиторий TXT
- * git pull
+ * `git pull`
