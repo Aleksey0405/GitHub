@@ -33,7 +33,7 @@
 * `Esc`
 * `:wq` 
  8. Отправить изменения на внешний репозиторий.
- * `git add .`,`git commit -m 'add code'`;`git push`
+ * `git add .`;`git commit -m 'add code'`;`git push`
  9. Создать файл preferences.json
  * `touch preferences.json`
  10. В файл preferences.json добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате JSON.
@@ -185,7 +185,7 @@
  * `Esc`
  * `:wq`
  12. Отправить сразу 2 файла на внешний репозиторий.
- `git add .`,`git commit -m 'add code'`; `git push`
+ `git add .`;`git commit -m 'add code'`; `git push`
  13. На веб интерфейсе создать файл bug_report.xml.
  * Зайти в нужную папку на `github.com`
  * Нажать `Add file`
@@ -279,7 +279,7 @@ Python basics. Building a client-server app
 * `:wq`
  
  12. Отправить сразу 2 файла на внешний репозиторий.
- * `git add .`,`git commit -m 'add code'`; `git push`
+ * `git add .`;`git commit -m 'add code'`; `git push`
  13. На веб интерфейсе создать файл bug_report.txt.
  * Зайти в нужный файл на `https://github.com`
  * Нажать `Edit`
